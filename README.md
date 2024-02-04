@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KDSantos27
+- 👋 Hi, I’m Kent
 - 👀 I’m interested in Product Development
 - 🌱 I’m currently learning Technical skills on Manual Software Testing
 - 💞️ I’m looking to collaborate on Manual Testing Projects
